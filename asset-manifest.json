@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hw8-react/static/css/main.90de7866.css",
-    "main.js": "/hw8-react/static/js/main.2e09bcad.js",
+    "main.js": "/hw8-react/static/js/main.1449bc49.js",
     "static/js/266.4723d6bb.chunk.js": "/hw8-react/static/js/266.4723d6bb.chunk.js",
     "static/js/139.a9309846.chunk.js": "/hw8-react/static/js/139.a9309846.chunk.js",
     "static/js/960.9ebd3581.chunk.js": "/hw8-react/static/js/960.9ebd3581.chunk.js",
@@ -11,7 +11,7 @@
     "static/js/61.467bbd3a.chunk.js": "/hw8-react/static/js/61.467bbd3a.chunk.js",
     "index.html": "/hw8-react/index.html",
     "main.90de7866.css.map": "/hw8-react/static/css/main.90de7866.css.map",
-    "main.2e09bcad.js.map": "/hw8-react/static/js/main.2e09bcad.js.map",
+    "main.1449bc49.js.map": "/hw8-react/static/js/main.1449bc49.js.map",
     "266.4723d6bb.chunk.js.map": "/hw8-react/static/js/266.4723d6bb.chunk.js.map",
     "139.a9309846.chunk.js.map": "/hw8-react/static/js/139.a9309846.chunk.js.map",
     "960.9ebd3581.chunk.js.map": "/hw8-react/static/js/960.9ebd3581.chunk.js.map",
@@ -22,6 +22,6 @@
   },
   "entrypoints": [
     "static/css/main.90de7866.css",
-    "static/js/main.2e09bcad.js"
+    "static/js/main.1449bc49.js"
   ]
 }
